@@ -1,4 +1,14 @@
 # ICE-CMPU250
-cmpu final project woo yeah wahoo!!!!!! :D
+Topic - ICE activities during various administrations and in light of recent policy decisions (thesis?)
 
-this is a short description of the repo. and it will be SERIOUS about it.
+Datasets - [list datasets]
+
+Divison of Labour:
+
+
+TODO:
+  thesis
+  get all datasets
+  preliminary analysis
+  division of labour contract
+  
