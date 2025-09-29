@@ -7,8 +7,12 @@ Divison of Labour:
 
 
 TODO:
+
   thesis
+  
   get all datasets
+  
   preliminary analysis
+  
   division of labour contract
   
