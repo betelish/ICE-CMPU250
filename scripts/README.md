@@ -5,7 +5,8 @@ A catalogue of all othrewise unhoused scripts used in the course of this project
 Unfortunately, dataframe table styles seem to not properly display within the github preview, so the wonderful colours in these script don't display adiquitely. 
 To see the file in all its glory, please open it in Jupyter Notebook (or, presumably, Google Colab)
 
-#Janitor
+Janitor
+---
 As these datasets are truely immense (2023-2025 taking up nearly 300,000 entries and the full 2011-2025 set comming in at a whopping ~1.7 *million*), exploratory data analysis & relevant figures were created using the pre-cleaned 2023-2025 arrest dataset. The file created by the cleaner script is *not* the dataset used for EDA, but it will be the file primarily used going forward.
 
 To clean this data, first I manually removed padding rows & normalized column names, as between the raw files there were numerous different renderings of the same type of information under different header names. Once they were in a state to be more easily parsed by code, all 11 raw files were concatenated (spanning 2011-2025, with a gap in 2013/14 where there was no associated raw).
