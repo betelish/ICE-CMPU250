@@ -17,7 +17,7 @@ Arrests 2011-2025
 |-|-|-|
 |Apprehension AOR|The ICE Area of Responsibility that made the arrest|str|
 |Apprehension Date Time|Date & Time of the arrest|datetime obj|
-|Apprehension Method|How the arrest took place, differentiating arrests made of already |incarcerated individuals from non-jail/prison locations|str|
+|Apprehension Method|How the arrest took place, differentiating arrests made of already incarcerated individuals from non-jail/prison locations|str|
 |Apprehension Site Landmark|A nearby location, or an associated ICE division|str|
 |Apprehension State|State of arrest|str|
 |Final Program|The program associated with the arrest, not necessarily ICE|str|
