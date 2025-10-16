@@ -1,13 +1,10 @@
-Codebook:
-"Arrests" is the total number of arrests by ICE per day.
-
-"Deportations" is the total number of arrests per day that lead to the deportation of the person who is arrested.
-
-"Deportations to home country" is the total number of arrests per day that lead to the deportation of the person who is arrested to their country of citizenship.
-
-"Deportations elsewhere" is the total number of arrests per day that lead to the deportation of the person who is arrested to a country other than their country of citizenship.
-
-"Home country proportion" is the decimal portion of arrests leading to deportations that send the deported person to their country of citizenship.
+| Name                         | Description                                                                                                                                          | Type  |
+|------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|-------|
+| Arrests                      | The total number of arrests by ICE per day                                                                                                           | int   |
+| Deportations                 | The total number of arrests per day that lead to the deportation of the person who is arrested.                                                      | int   |
+| Deportations to home country | the total number of arrests per day that lead to the deportation of the person who is arrested to their country of citizenship.                      | int   |
+| Deportations elsewhere       | The total number of arrests per day that lead to the deportation of the person who is arrested to a country other than their country of citizenship. | int   |
+| Home country proportion      | The decimal portion of arrests leading to deportations that send the deported person to their country of citizenship.                                | float |
 
 
 CSV files are too large to store on native github
