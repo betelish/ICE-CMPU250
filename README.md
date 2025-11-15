@@ -21,7 +21,7 @@ This is an actively updating project.
 # <b>CODEBOOK</b>
 
 Arrests By Day (2023-2025)
-====
+---
 
 | Name                         | Description                                                                                                                                          | Type  |
 |------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|-------|
@@ -34,7 +34,7 @@ Arrests By Day (2023-2025)
 Note: We did not include the most recent week of data in the plots, as the ICE data were not fully recorded in the last week.
 
 Arrests 2011-2025
-====
+---
 |Name | Description | Type |
 |-|-|-|
 |Apprehension AOR|The ICE Area of Responsibility that made the arrest|str|
