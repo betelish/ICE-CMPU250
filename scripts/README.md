@@ -22,3 +22,8 @@ The most glaring piece of this dataset requiring normalization was the "Apprehen
 Finally, I alphebetized the column order for ease of display!
 
 As a complete stats table for this dataset would be fairly unhelpful (most data is stored as strings which would individually be analyzable, but a single table summarizing all would be fairly clunky and less helpful than the codebook), I have in liu provided a chart of *which variables are recorded year-to-year*, as this will inform the extent & applicability of future analyses that stretch further back.
+
+<br><br><br>
+Criminality, Ethnicity, Deportation
+---
+One of our main research aims was to look into the relationships between criminality, ethnicity, and ICE arrests & deportation. Through a semi-thorough but not necessarily precise analysis, this script details these relationships, demonstrating the link between entry into the CJS and the arrest & deportation of individuals. 
