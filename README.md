@@ -3,7 +3,7 @@ Drawing on data published by https://deportationdata.org/data/ice.html spanning 
 
 In this project we intend to explore in-depth both recent and older data releases from Immigrations & Customs Enforcement from an explicitly anti-ICE perspective, putting the data releases in a critical context in which we question the efficacy and purpose of ICE as an institution, as well as questioning the *quality of data* that we interact with.
 
-Methedology outline
+Methedology outline [OUTDATED]
 ---
 We intend to focus on a handful of outcome variables: 
 - Mismatches of deportation country & citizenship country (over time and by AOR)
@@ -17,7 +17,7 @@ One other type of claim that we can evaluate through this dataset is claims ofte
 
 This is an actively updating project.
 
-
+<br><br>
 # <b>CODEBOOK</b>
 
 Arrests By Day (2023-2025)
