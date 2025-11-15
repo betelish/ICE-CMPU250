@@ -17,6 +17,9 @@ One other type of claim that we can evaluate through this dataset is claims ofte
 
 This is an actively updating project.
 
+
+# <b>CODEBOOK</b>
+
 Arrests By Day (2023-2025)
 ====
 
