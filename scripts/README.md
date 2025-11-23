@@ -27,3 +27,8 @@ As a complete stats table for this dataset would be fairly unhelpful (most data 
 Criminality, Ethnicity, Deportation
 ---
 One of our main research aims was to look into the relationships between criminality, ethnicity, and ICE arrests & deportation. Through a semi-thorough but not necessarily precise analysis, this script details these relationships, demonstrating the link between entry into the CJS and the arrest & deportation of individuals. 
+
+<br><br><br>
+Arrests: Time Of Day
+--
+When looking into how communities can effectively resist ICE, allocation of resources is a major concern. Community defense operations are often spread thin - if they exist at all - and have limited people, time, and energy. When considering when and where to spend time, a major factor should be ICE's activity (after all, such operations tend to be responsive rather than proactive). This script aggregates arrest counts by the half-hour and plots peaks in ICE arrests over the course of the day.
