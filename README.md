@@ -56,6 +56,8 @@ Arrests 2011-2025
 |Hispanic|Flag for if the arrestee is of Hispanic origin|bool|
 |Deported|Flag for if arrestee has been deported|bool|
 |Convicted|Flag for if arrestee has any standing criminal convictions|bool|
+
+
 CSV files are too large to store on native github
 See drive: https://drive.google.com/drive/folders/1tC1GmXV51mEeywB6ZN0hkrYtJ38owuLB?usp=drive_link
 
