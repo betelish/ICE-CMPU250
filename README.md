@@ -38,21 +38,24 @@ Arrests 2011-2025
 |Name | Description | Type |
 |-|-|-|
 |Apprehension AOR|The ICE Area of Responsibility that made the arrest|str|
-|Apprehension Date Time|Date & Time of the arrest|datetime obj|
+|Apprehension Date Time|Date & Time of the arrest. Set to midnight if unrecorded|datetime obj|
 |Apprehension Method|How the arrest took place, differentiating arrests made of already incarcerated individuals from non-jail/prison locations|str|
 |Apprehension Site Landmark|A nearby location, or an associated ICE division|str|
 |Apprehension State|State of arrest|str|
+|Apprehension Year|Year of arrest|int|
 |Final Program|The program associated with the arrest, not necessarily ICE|str|
-|Final Program Group|For Arrests, this is always ICE|str|
 |Departed Date|Date of deportation, blank if not removed|str|
 |Departure Country|Country of deportation, blank if not removed|str|
 |Citizenship Country|Country arestee has citizenship in|str|
 |Birth Year|Birth year of the arrested individual|int|
 |Gender|ICE presumed gender of individual|str|
 |Race|ICE presumed race of individual|str|
-|Ethnicity|Flag for hispanic, should likely be updated to "Hispanic" & boolean type|str|
 |Worst Criminal Charge|Current highest-level crime (misdemeanor/felony/etc) the arestee has been charged with (not necessarily convicted)|str|
-
+|Charged|Flag for if arrestee has been charged with a crime|bool|
+|Has Time Of Day|Flag for if the datetime includes time of day|bool|
+|Hispanic|Flag for if the arrestee is of Hispanic origin|bool|
+|Deported|Flag for if arrestee has been deported|bool|
+|Convicted|Flag for if arrestee has any standing criminal convictions|bool|
 CSV files are too large to store on native github
 See drive: https://drive.google.com/drive/folders/1tC1GmXV51mEeywB6ZN0hkrYtJ38owuLB?usp=drive_link
 
