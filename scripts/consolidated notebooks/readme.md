@@ -5,12 +5,12 @@ Janitor
 Cleaning the data
 
 
-Sanity Check [NEEDS TO BE COMPILED]
+Sanity Check (NEEDS TO BE COMPILED)
 ---
 Quality of deportations & deportations by presidential administration & by state, focusing on the (bi)partisanship of ICE over time.
 
 
-Legislative Pathways [NEEDS TO BE COMPILED]
+Legislative Pathways (NEEDS TO BE COMPILED)
 ---
 Analysis of ethnicity, criminality, and the intersection of the two. As the sanity check indicates the bipartisan nature of ICE policy, this section suggests a direction for partisan, achievable legislation that could impede ICE.
 
