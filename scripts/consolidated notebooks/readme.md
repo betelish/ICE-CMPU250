@@ -4,6 +4,9 @@ Janitor
 ---
 Cleaning the data
 
+**Administration Analysis**
+---
+Graphical analysis of trends in arrests throughout the changes of administration. Largely shows that ICE is a bipartisan institution
 
 Sanity Check (NEEDS TO BE COMPILED)
 ---
