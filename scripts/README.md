@@ -34,6 +34,6 @@ Arrests: Time Of Day
 When looking into how communities can effectively resist ICE, allocation of resources is a major concern. Community defense operations are often spread thin - if they exist at all - and have limited people, time, and energy. When considering when and where to spend time, a major factor should be ICE's activity (after all, such operations tend to be responsive rather than proactive). This script aggregates arrest counts by the half-hour and plots peaks in ICE arrests over the course of the day.
 
 <br><br><br>
-EDA: FIgures, 2023-2025
+EDA: Figures, 2023-2025
 --
 This is our EDA submission, and it only contains the most recent data. This version is simply kept to be a record of our Exploratory Data Analysis. An updated version of this (with the whole dataset) is located under consolidated notebooks under the name "Administration Analysis".
