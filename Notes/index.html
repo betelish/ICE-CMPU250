@@ -1,0 +1,60 @@
+<!doctype html>     <!--it's an html file!-->
+<html lang="en">    <!-- accessibility, best practice to indicate lang here-->
+    <head>          <!-- unrendered, includes metadata, css filesheets, js files to run-->
+        <title>html-playground</title>
+
+        <style> /*this is css, styling all anchor tags*/
+            a {
+                font-family: sans-serif;
+            }
+        </style>
+    </head>
+    <body>          <!-- all the things you want to render on the page-->
+        <div>       <!--divider:formatting-->
+            <p>hello world</p>  <!--paragraph:formatting-->
+
+            <a href="https://google.com/">click me</a> <!--anchor:links to sites or fragments (sub-regions of the site, eg wikipedia)-->
+            <!--add target=_blank to make open in a new tab-->
+
+            <a id="a">click me</a>
+
+            <h1>markdown #</h1>
+            <h2>md ##</h2>
+            <h3>md ### (goes on 'till 6)</h3>
+            <em>italics</em> <i>or italics</i>
+            <strong>bold</strong> <b>or bold</b>
+
+            <ul> <!-- unordered list -->
+                <li>item b</li> <!--list item-->
+                <li>item rats</li>
+            </ul>
+
+            <ol> <!-- ordered list-->
+                <li>item 1</li>
+                <li>item 2</li>
+            </ol>
+
+            <!--link js to this button to do actions-->
+            <button>yay button</button>
+
+            <p>
+                text for you. <br /> <!-- <br><!br> ~~ <br />, though br can also be <br> on its own-->
+                and some more. and then here's some
+                <span>in a span. this is useful because <br/>
+                    you can specify and put arbitrary changes on <br/>
+                    inline text, without it looking visually distinct <br />
+                </span> from other text! It can be a dummy element too :)
+
+                <marquee> MARQUEE MARQUEE MARQUEE QUEEMAR MARQUEE MARQUEE MARQUEE</marquee> <!-- everyone hates her. but im here-->
+                <!--/gen use css transformations/animations instead tho-->
+
+            </p>
+            <span></span>
+        </div>
+        <script> //put arbitrary javascript in here for funsies, runs simultaneuosly to rest of body
+            document //global var: the webpage
+                .querySelector("#a") // = .getElementById("a") | lets you kinda add js onto existing formatting
+                .addEventListener("click", (e) => alert("hello!")) //like app scripts w/ events
+        </script>
+    </body>
+</html>
