@@ -1,12 +1,12 @@
 ### Github
-- [ ] *Link vault to git -> June & Prof. Stapleton access*
-- [ ] *archive old stuff/restructure*
+- [ ] <span style="color:red;">Link vault to git -> June & Prof. Stapleton access</span>
+- [x] *archive old stuff/restructure*
 - [ ] figure out how to host website stuff on github
 - [ ] accessibility
 	- [ ] Reduce paper into more accessible/shorter format
-	- [ ] Colorblindness
-	- [ ] Screen readers
-	- [ ] Readmes
+	- [x] Colorblindness
+	- [ ] <span style="color:red;">Screen readers</span> 
+	- [ ] <span style="color:red;">Readmes</span>
 ### ~~Pre-2021 DDP~~
  - [x] arrests
  - can we trust this data?
@@ -32,28 +32,37 @@
 	- [ ] Detainers
 	- [ ] Removals
 	- [x] Non-ICE datasets
-
+- [x] Tracking location of ICE arrests to eventual detention center
+	- Are the people detained in centers local or across the map
+	- Resistance to centers is strictly local atm -> must it be?
+	- [x] Track motion through the system by ID
+		- [x] state level
+		- [x] sub-state level
+	- [x] Aggregate location of arrest to location of center
+	- [x] Visualize with website
+		- [x] interactive graph
+		- [x] USA map charting the "pull" of each center 
 ### ICE as PIC
 - *keep an eye out for more data sources*
 - [ ] Research
 	- [x] ICE/ERO arrests
 	- [x] 287(g)
-	- [ ] *Detention Centers & Detainers*
-	- [ ] *Flock*
+	- [x] Detention Centers & Detainers
+	- [ ] <span style="color:red;">Flock</span>
 	- [ ] Palentir
-- [ ] EDA
+- [x] EDA
 	- [x] ICE/ERO arrests
 	- [x] Detention Centers & Detainers
 - [ ] Mapping
 	- [x] Learning how
 	- [x] ICE/ERO arrests
-	- [ ] Detention Centers
+	- [x] Detention Centers
 	- [ ] Flock
 	- [ ] Speed Cameras
 	- [ ] Cops (live -> Waze?)
 	- [ ] ICE watch feeds
 ### Real-Time Crime Centers
-- [ ] What are they?
+- [ ] <span style="color:red;">What are they?</span>
 - [ ] Poughkeepsie locality
 	- [ ] Opposition
 	- [ ] Support
@@ -62,6 +71,20 @@
 - [x] Source
 	- ddosecrets.org
 	- [https://ddosecrets.org/article/ice-contracts]
-- [ ] EDA/parsing
+- [ ] <span style="color:red;">EDA/parsing</span>
 - [ ] Graph visualization
 	- Python/networkx
+
+### Miscellaneous
+- [ ] Outreach
+	- [x] identify groups
+	- [ ] draft emails
+	- [ ] send emails
+- [ ] Learning Websites
+	- [x] HTML
+	- [ ] <span style="color:red;">CSS</span>
+	- [ ] <span style="color:red">Portfolio website written & snazzy</span>
+	- [ ] <span style="color:red"><b>host website on github</b></span>
+	- [ ] <span style="color:red;">JS to display networks ego-centric on hover</span>
+	- [ ] JS to scrape data from other websites
+- [ ] Predict: Given a persons existing path through detention centers & arrest location, predict where they will end up next (could be helpful for peace of mind of families or for locating a person who was just moved)
